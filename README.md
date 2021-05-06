@@ -7,7 +7,7 @@ This project is develop in "Programación de Videojuegos" course at UCSP
 * Python
 * Git 
 
-## Instalation
+## Installation
 
 1. Clone this repostitory
 ```
