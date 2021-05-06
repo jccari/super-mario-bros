@@ -1,4 +1,7 @@
 # Super Mario Bros
+This project is develop in "Programación de Videojuegos" course at UCSP
+
+> [Game description, Document](https://docs.google.com/document/d/1Utk-cIJ9NEGdane_YuJT4o5pDjtH-v7Ce7ZJm-AoCsM/edit?usp=sharing)
 
 ## Requirements
 * Python
